@@ -1,0 +1,54 @@
+{
+ "abort_on_missing": false, 
+ "check_memory": false, 
+ "enable_e10s": false, 
+ "is-sdk-bundled": false, 
+ "jetpackID": "jid1-NtkFP6G1uHqLyA@jetpack", 
+ "loader": "addon-sdk/lib/sdk/loader/cuddlefish.js", 
+ "main": "main", 
+ "mainPath": "srandotify/main", 
+ "manifest": {
+  "srandotify/main": {
+   "docsSHA256": null, 
+   "jsSHA256": "c6fcb63ba6dc48e3a303c60530a07c6401616b702255b4cdec696995259f3085", 
+   "moduleName": "main", 
+   "packageName": "srandotify", 
+   "requirements": {
+    "sdk/panel": "sdk/panel", 
+    "sdk/self": "sdk/self", 
+    "sdk/ui/button/toggle": "sdk/ui/button/toggle"
+   }, 
+   "sectionName": "lib"
+  }
+ }, 
+ "metadata": {
+  "addon-sdk": {
+   "description": "Add-on development made easy.", 
+   "keywords": [
+    "javascript", 
+    "engine", 
+    "addon", 
+    "extension", 
+    "xulrunner", 
+    "firefox", 
+    "browser"
+   ], 
+   "license": "MPL 2.0", 
+   "name": "addon-sdk"
+  }, 
+  "srandotify": {
+   "author": "GIDDYTOROH", 
+   "description": "A random music player powered by Spotify Web API.", 
+   "license": "MPL 2.0", 
+   "main": "main", 
+   "name": "srandotify", 
+   "version": "1.5.0"
+  }
+ }, 
+ "name": "srandotify", 
+ "parseable": false, 
+ "preferencesBranch": "jid1-NtkFP6G1uHqLyA@jetpack", 
+ "sdkVersion": "1.17", 
+ "staticArgs": {}, 
+ "verbose": false
+}
