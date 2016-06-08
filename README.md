@@ -1,5 +1,7 @@
 # srandotify
 
+Site: https://addons.mozilla.org/zh-tw/firefox/addon/srandotify
+
 Use search function of Spotify to get random tracks and play 30 seconds preview of them.
 And more functions:
 * Open the track in Spotify Web Player. (Need log-in first.)
